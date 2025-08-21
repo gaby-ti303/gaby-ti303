@@ -13,5 +13,5 @@ Sou uma desenvolvedora apaixonada por criar interfaces web e estou em constante 
 * 😄 **Pronomes:** ela/dela
 * ⚡ **Curiosidade:** Adoro transformar designs do Figma em código funcional e pixel-perfect.
 * Atualmente, estou contribuindo em um **projeto de ajuda.
-* https://gaby-ti303.github.io
+* https://gaby-ti303.github.io/meu-site/
 

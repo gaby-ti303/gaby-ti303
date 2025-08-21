@@ -14,4 +14,4 @@ Sou uma desenvolvedora apaixonada por criar interfaces web e estou em constante 
 * ⚡ **Curiosidade:** Adoro transformar designs do Figma em código funcional e pixel-perfect.
 * Atualmente, estou contribuindo em um **projeto de ajuda.
 * https://gaby-ti303.github.io
-* https://www.instagram.com/gabrielly_vrs_
+
